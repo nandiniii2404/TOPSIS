@@ -5,7 +5,7 @@ base_directory = Path(__file__).parent
 detailed_description = (base_directory / "README.md").read_text()
 
 setup(
-    name='topsis_utility_102203958',
+    name='topsis_utility_102203540',
     version='1.1.0',
     description='A Python utility to compute TOPSIS rankings for decision-making problems',
     long_description=detailed_description,  
